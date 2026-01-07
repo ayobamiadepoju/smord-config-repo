@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: user-service
+
+datasource:
+  uri: jdbc:mysql://localhost:3306/user_db
